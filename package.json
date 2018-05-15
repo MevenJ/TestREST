@@ -11,7 +11,7 @@
     "redis": ""
   },
     "scripts" : {
-      "start":"node main.js"
+      "start":"node testRest.js"
   },
   "engines" : {
     "node" : ">=0.6"
